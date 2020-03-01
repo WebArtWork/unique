@@ -1,12 +1,9 @@
 {
 	"name": "Unique",
-	"router": [{
-		"name": "Basic",
-		"src": "router.js"
-	}],
+	"router": "router.js",
 	"dependencies": {},
-	"crud": [{
+	"crud": {
 		"name": "unique",
 		"delete": [""]
-	}]
+	}
 }

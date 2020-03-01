@@ -1,4 +1,4 @@
-var Unique = require(__dirname+'/schema_unique.js');
+var Unique = require(__dirname+'/schema.js');
 module.exports = function(sd) {
 	sd.crud('unique', {
 		get: {
