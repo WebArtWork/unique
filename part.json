@@ -1,0 +1,12 @@
+{
+	"name": "Unique",
+	"router": [{
+		"name": "Basic",
+		"src": "router.js"
+	}],
+	"dependencies": {},
+	"crud": [{
+		"name": "unique",
+		"delete": [""]
+	}]
+}
