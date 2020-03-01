@@ -2,6 +2,9 @@
 	"name": "Unique",
 	"router": "router.js",
 	"dependencies": {},
+	"git": {
+		"repo": "https://github.com/WebArtWork/unique.git"
+	},
 	"crud": {
 		"name": "unique",
 		"delete": [""]
