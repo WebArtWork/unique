@@ -1,7 +1,9 @@
 {
 	"name": "Unique",
 	"router": "router.js",
-	"dependencies": {},
+	"dependencies": {
+		"mongoose": "*"
+	},
 	"git": {
 		"repo": "https://github.com/WebArtWork/unique.git"
 	},
